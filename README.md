@@ -14,7 +14,10 @@ This repository presents a **snapshot** of an interactive Power BI dashboard des
 
 > ⚠️ The image below is a **static snapshot** of the full dynamic dashboard.
 
-![Coffee-Shop-Report](Images/total_employees.png)
+![Plant-Boomerang-Dashboard](Images/Snapshot_1.png)
+![Plant-Boomerang-Dashboard](Images/Snapshot_2.png)
+![Plant-Boomerang-Dashboard](Images/Snapshot_3.png)
+
 This snapshot provides a **visual overview** of the dashboard's layout, structure, and analytical insights. Please note that the **interactive features** such as slicers, tooltips, and drill-downs are not visible in this image.
 
 ---
